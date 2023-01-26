@@ -1,0 +1,56 @@
+/* btn gradient custom color  */
+
+.btn-gradient {
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    border: none;
+}
+
+.border-bottom {
+    padding-bottom: 10px !important;
+    border-bottom: 1px solid black !important;
+}
+
+.set-taost {
+    background-color: #fff;
+    width: 256px;
+    left: 191px;
+    bottom: -25px;
+}
+
+.bg-dark {
+    background: linear-gradient(360deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.8) 100%);
+}
+
+.first-empty {
+    height: 150px;
+    background: linear-gradient(90deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 136, 56, 0.1) 100%);
+}
+
+.second-empty {
+    height: 150px;
+    background: rgba(87, 118, 57, 0.1);
+}
+
+.first-img {
+    /* background: linear-gradient(90deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 136, 56, 0.1) 100%); */
+    background: rgba(87, 118, 57, 0.1);
+}
+
+.second-img {
+    /* background: linear-gradient(90deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 136, 56, 0.1) 100%); */
+    background: linear-gradient(90deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 136, 56, 0.1) 100%);
+}
+
+/* our clients section  */
+.our-clients {
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+}
+
+.bottom-img {
+    top: 180px;
+    right: 10px;
+}
+
+.card-width {
+    width: 70%;
+}
